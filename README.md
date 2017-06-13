@@ -10,6 +10,9 @@ Documenting the steps performed to create website
 3) docker-compose start, docker-compose up
 4) Enter "localhost" in chrome url
 5) http://localhost/wp-admin for editing
+ 
+        username: admin
+        password: 12345
 
         Starting with basic theme:
 1) http://underscores.me/  website to download basic wordpress theme
