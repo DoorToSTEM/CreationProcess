@@ -2,7 +2,7 @@
 Documenting the steps performed to create website
 
 1) Download Docker, Homebrew, iTerm
-2) Set up localhost server for wordpress.com website (refer to dascroll associate/wiki for futher instructions)
+2) Set up localhost server for wordpress.com website (refer to [dascroll associate/wiki](https://github.com/dascroll/associate/wiki/Localhost) for futher instructions)
 
 Setting up localhost website:
 1) Open Docker
